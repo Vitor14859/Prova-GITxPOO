@@ -20,7 +20,7 @@ IV.  configurar(8, 12);
 
 **Qual alternativa está correta?**
 
-- **A)** Apenas I é inválida.
+-  X **A)** Apenas I é inválida.
 - **B)** Apenas II é inválida.
 - **C)** Apenas III é inválida.
 - **D)** Apenas IV é inválida.
