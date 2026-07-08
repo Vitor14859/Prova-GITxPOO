@@ -5,7 +5,6 @@ public class Temporada  {
     private String nomeDoDesafio;
     private int quantidadeDeEventos;
     private boolean roboPronto;
-    private String getQuantidadeDeEventos;
 
     public Temporada() {
     }
@@ -59,7 +58,7 @@ public class Temporada  {
 
     public void exibiriformacoes(){
         System.out.println("informações:" );
-        System.out.println("Nome do desafio" + this.getNomeDoDesafio());
+        System.out.println("Nome do desafio " + this.getNomeDoDesafio());
         System.out.println("Ano: " + this.getAno());
         System.out.println("Quantidade de eventos: "  + this.getQuantidadeDeEventos());
         System.out.println("Robo pronto: " + this.isRoboPronto());
