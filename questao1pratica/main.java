@@ -1,6 +1,6 @@
 package questao1pratica;
 
-public class main {
+class Main {
     public static void main(String[] args) {
 
         Temporada t = new Temporada(2026, "temporada sim", 2, true);
