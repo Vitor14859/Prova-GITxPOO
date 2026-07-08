@@ -12,7 +12,7 @@ Assinale a alternativa correta.
 
 **A)** Apenas a afirmativa I está correta.
 
-**B)** Apenas as afirmativas I e II estão corretas.
+X **B)** Apenas as afirmativas I e II estão corretas.
 
 **C)** Apenas as afirmativas II e III estão corretas.
 

@@ -14,7 +14,7 @@ Integrante integrante = new Programador();
 
 Sobre essa declaração, assinale a alternativa correta.
 
-**A)** A declaração é inválida, pois uma variável do tipo `Integrante` não pode armazenar um objeto da classe `Programador`.
+X **A)** A declaração é inválida, pois uma variável do tipo `Integrante` não pode armazenar um objeto da classe `Programador`.
 
 **B)** A declaração é válida, pois `Programador` herda de `Integrante`, permitindo que uma referência da superclasse aponte para um objeto da subclasse.
 
