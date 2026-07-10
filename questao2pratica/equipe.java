@@ -1,14 +1,24 @@
 package questao2pratica;
 
+import java.util.ArrayList;
+
 public class equipe {
     private String nomedaEquipe;
     private int numerodeintegrantes;
     private int numerodeeventos;
+
+    ArrayList<String> integrantes = new ArrayList<String>();
+    
+
+    ArrayList<String> eventos = new ArrayList<String>();
+    
+
     
     public equipe() {
         this.nomedaEquipe = "";
         this.numerodeintegrantes = 0;
         this.numerodeeventos = 0;
+        
     }
 
     public equipe(String nomedaEquipe, int numerodeintegrantes, int numerodeeventos) {
